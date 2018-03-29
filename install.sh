@@ -4,7 +4,7 @@ sudo apt-get update && sudo apt-get install vlc vlc-plugin-* -y && sudo apt-get 
 sudo apt-get install psmisc
 sudo apt-get install unzip
 sudo apt-get install unrar
-wget https://raw.githubusercontent.com/marconimp/ezhometech/master/ezserver.rar
+wget https://raw.githubusercontent.com/vaniusha3/ezserver/master/ezserver.rar
 sudo unrar x ezserver.rar
 rm ezserver.rar
 cd ezserver
